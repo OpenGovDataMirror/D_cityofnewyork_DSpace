@@ -1,0 +1,17 @@
+# Item Archived email message
+#
+# {0}  Title of submission
+# {1}  Name of collection
+# {2}  handle 
+#
+Subject: Submissions Portal: Approval
+
+You submitted: {0}
+
+Your submission has been accepted and archived in the Government Publications Portal.
+
+Emails to this mailbox are not monitored. Please contact the Municipal Library
+at municipal-library-admins@records.nyc.gov.
+
+Thank you,
+Municipal Library
